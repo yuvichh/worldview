@@ -56,7 +56,7 @@ export function Header({ onOpenSearch, onOpenSettings }: HeaderProps) {
             <Settings className="size-4" />
           </button>
 
-          <Link href={'https://github.com/Yuvraj-cyborg/worldview'} target="_blank" rel="noopener noreferrer">
+          <Link href={'https://github.com/yuvichh/worldview'} target="_blank" rel="noopener noreferrer">
             <button
               className="size-4 flex cursor-pointer items-center justify-center rounded-md text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
               aria-label="GitHub"
